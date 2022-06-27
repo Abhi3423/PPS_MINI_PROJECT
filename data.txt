@@ -1,0 +1,27 @@
+
+Roll number: 1
+ First Name: Abhishek
+ Chemistry: 85
+ General aptitude: 81
+ Maths: 90
+ PPS: 98
+ Language: 81
+ Percentage: 87.000
+
+Roll number: 2
+ First Name: Subhanshu
+ Chemistry: 98
+ General aptitude: 84
+ Maths: 82
+ PPS: 99
+ Language: 91
+ Percentage: 90.000
+
+Roll number: 3
+ First Name: Aman
+ Chemistry: 85
+ General aptitude: 42
+ Maths: 12
+ PPS: 85
+ Language: 55
+ Percentage: 55.000
